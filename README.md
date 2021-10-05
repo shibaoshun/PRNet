@@ -13,3 +13,5 @@ The files of PRNet_~dB contain the trained models and the parameters of the ADAM
 Test_SNR.py is utilize to test the PSNR and SSIM values of the proposed PRNet on Set12.
 
 By modifying the the name of model and the value of SNR in Test_SNR.py, evaluating the imaging quality of the proposed PRNet at different SNRs can be achieved.
+If you encounter any problems, please do not hesitate to contact me.
+shibaoshun@ysu.edu.cn
