@@ -7,6 +7,8 @@ Python 3.7.4\
 PyTorch 1.7.0+cu110\
 torchvision 0.4.1\
 numpy 1.19.5
+## How to obtain the trained models
+The trained models can be found at:  https://pan.baidu.com/s/1a0eDW-gnN1aIkTts29k6WA, the pass word of the file is `fr6l`.
 # Testing
 The files of PRNet_~dB contain the trained models and the parameters of the ADAM optimizer at different noise levels.\
 Test_SNR.py is utilize to test the PSNR and SSIM values of the proposed PRNet on Set12.\
